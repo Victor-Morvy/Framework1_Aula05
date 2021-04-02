@@ -1,0 +1,51 @@
+/* Victor Hugo Martins de Oliveira */
+/* 2004526 */
+
+body{
+    font-size: 15px;
+    margin: 10px;
+    padding: 10px;
+    font-style: italic;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+
+th{
+    
+    border: 3px solid black;
+}
+
+td{
+    border: 3px solid black;
+}
+
+#content{
+    width: 50%;
+}
+
+table{
+    margin: auto;
+    border: 2px solid black;
+
+    
+}
+
+table.table1{
+    float: left;
+    margin: auto;
+}
+
+table.table2{
+    float: right;
+    margin: auto;
+}
+
+tr.Green{
+    background-color: rgb(114, 187, 87);
+}
+
+tr.Red{
+    background-color: red;
+}
+
